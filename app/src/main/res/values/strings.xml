@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Clean Area</string>
+    <string name="ed_phone_hint">Номер телефону</string>
+    <string name="ed_name_hint">ПІП</string>
+    <string name="ed_address_hint">Адреса</string>
+    <string name="ed_work_hint">Виконана робота/вартість</string>
+</resources>
